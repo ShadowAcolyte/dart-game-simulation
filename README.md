@@ -5,6 +5,7 @@ Simulation runs for "HyperDarts"
 The rules of the game are as follows:
  - *In the game of HyperDarts, the bull’s eye starts out with a diameter of 1, but each dart that lands reduces it to the length of the chord the dart lies on (or 0, if the dart is outside the bull’s eye).*
  - *Suppose a (very unskilled) player is equally likely to hit **any** point in the blue square. They get 1 point just for playing, then 1 point every time they hit the current bull’s eye. If they throw an infinite number of darts, what is their expected score?*
+
 https://user-images.githubusercontent.com/43309118/140780691-cb024757-ca4d-4346-ba19-a02915b23774.mp4
 
 # Usage
