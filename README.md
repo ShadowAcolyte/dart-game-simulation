@@ -7,7 +7,7 @@ The rules of the game are as follows:
  - *Suppose a (very unskilled) player is equally likely to hit **any** point in the blue square. They get 1 point just for playing, then 1 point every time they hit the current bull’s eye.
 
 If they throw an infinite number of darts, what is their expected score?*
-![Alt Text](https://user-images.githubusercontent.com/43309118/140780691-cb024757-ca4d-4346-ba19-a02915b23774.mp4)
+https://user-images.githubusercontent.com/43309118/140780691-cb024757-ca4d-4346-ba19-a02915b23774.mp4
 
 # Usage
 	`simulation.exe <number of games> [--no-info]`
