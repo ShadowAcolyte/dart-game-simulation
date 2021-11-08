@@ -1,5 +1,5 @@
 # Dart Game Simulation
-Simulation runs for "HyperDarts"
+Simulation runs for "HyperDarts". Inspired by [this video](https://www.youtube.com/watch?v=6_yU9eJ0NxA).
 
 # Game rules
 The rules of the game are as follows:
