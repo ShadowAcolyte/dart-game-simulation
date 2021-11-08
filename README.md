@@ -9,5 +9,5 @@ The rules of the game are as follows:
 https://user-images.githubusercontent.com/43309118/140780691-cb024757-ca4d-4346-ba19-a02915b23774.mp4
 
 # Usage
-	```simulation.exe <number of games> [--no-info]```
+	simulation.exe <number of games> [--no-info]
   The "--no-info" flag is optional which, if present, would result in no additional information displayed about each game. This is primarily to increase performance since a million print calls would decrease the program speed significantly.
